@@ -1,5 +1,0 @@
-streamlit
-FinanceDataReader
-statsmodels
-plotly
-pandas
